@@ -6,3 +6,7 @@
 
 $ java
 What what = new What(whatever);
+
+- [x] dabadu
+- [ ] dabadi
+- [x] yes
